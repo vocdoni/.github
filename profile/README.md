@@ -31,7 +31,7 @@ Start with the developer documentation:
 
 ## DAVINCI
 
-Vocdoni is also developing **DAVINCI — Decentralized Autonomous Vote Integrity Network with Cryptographic Inference**, the next generation of our voting protocol.
+Vocdoni is also developing **DAVINCI: Decentralized Autonomous Vote Integrity Network with Cryptographic Inference**, the next generation of our voting protocol.
 
 DAVINCI combines cryptographic techniques such as zero-knowledge proofs with decentralized infrastructure to provide strong privacy, integrity and verifiability guarantees for digital voting.
 
