@@ -29,12 +29,6 @@ Start with the developer documentation:
 
 **https://vocdoni.io/developers/docs/**
 
-## Main repositories
-
- - [**vocdoni-app**](https://github.com/vocdoni/vocdoni-app): The Vocdoni digital voting application. It provides the user-facing platform for organizations to create and manage secure voting processes.
- - [**saas-backend**](https://github.com/vocdoni/saas-backend): Backend powering the Vocdoni SaaS platform and API.
- - [**vocdoni-node**](https://github.com/vocdoni/vocdoni-node) and [**vocdoni-sdk**](https://github.com/vocdoni/vocdoni-sdk): Core implementation of the Vocdoni voting protocol and distributed node infrastructure, written in Go, and the TypeScript SDK for interacting with the Vocdoni API and voting protocol.
-
 ## DAVINCI
 
 Vocdoni is also developing **DAVINCI — Decentralized Autonomous Vote Integrity Network with Cryptographic Inference**, the next generation of our voting protocol.
@@ -46,14 +40,6 @@ Key repositories:
 - [davinci-node](https://github.com/vocdoni/davinci-node) — DAVINCI node and sequencer implementation.
 - [davinci-contracts](https://github.com/vocdoni/davinci-contracts) — EVM smart contracts for the DAVINCI protocol.
 - [davinci-paper](https://github.com/vocdoni/davinci-paper) — DAVINCI protocol whitepaper.
-
-## Open source
-
-Vocdoni is built in the open.
-
-Our protocol, applications, SDKs and supporting infrastructure are developed as open-source software. Explore our repositories, open issues, contribute code or use the technology to build your own voting solutions.
-
-**https://github.com/vocdoni**
 
 ## Security
 
