@@ -59,4 +59,4 @@ Our protocol, applications, SDKs and supporting infrastructure are developed as 
 
 Security vulnerabilities should **not** be reported through public GitHub issues.
 
-Please use GitHub's private vulnerability reporting mechanism for the affected repository. See our [Security Policy](SECURITY.md) for more information.
+Please use GitHub's private vulnerability reporting mechanism for the affected repository. See our [Security Policy](../SECURITY.md) for more information.
